@@ -67,8 +67,8 @@ Do not report the earlier 98.99% value as the final result. Run the corrected no
 ```text
 MNIST-CNN-Classification/
 ├── MNIST_CNN_Annotated.ipynb
-├── README.md
-└── mnist_cnn_model.keras   # generated after running the notebook
+└── README.md
+
 ```
 
 ## Limitations
